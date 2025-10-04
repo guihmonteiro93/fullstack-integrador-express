@@ -7,7 +7,7 @@ cols = ["Id","Nome", "Sexo", "Idade", "Matrícula", "Peso"]
 // BANDO DE DADOS -----------------------------------
 nome = 'Clara'
 
-url = "https://sturdy-chainsaw-v9499vw6gvg266jx-3000.app.github.dev/alunos"
+url = "https://sturdy-chainsaw-v9499vw6gvg266jx-3000.app.github.dev/"
 dadosCols = ""
 fetch(url)
 .then((res)=>{return res.json()})
