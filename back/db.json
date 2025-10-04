@@ -1,0 +1,7 @@
+{
+    "alunos":[
+        {"id": 1, "nome": "Henning", "idade": 40, "sexo": "Masculino", "mat": 12346, "peso":80},
+        {"id":2, "nome": "Henning", "idade": 40, "sexo": "Masculino", "mat": 12346, "peso":80},
+        {"id":3, "nome": "Henning", "idade": 40, "sexo": "Masculino", "mat": 12346, "peso":80}
+    ]
+}
